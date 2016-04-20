@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: eu.impact_project.iif.ws.generic.ExampleTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 5.112 sec

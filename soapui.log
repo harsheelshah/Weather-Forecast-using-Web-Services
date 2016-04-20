@@ -1,0 +1,231 @@
+2016-03-03 21:15:00,006 WARN  [SoapUI] Missing folder [D:\cs594\iif-generic-soap-client-master\.\ext] for external libraries
+2016-03-03 21:15:00,006 INFO  [DefaultSoapUICore] Creating new settings at [C:\Users\pratik\soapui-settings.xml]
+2016-03-03 21:15:01,565 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2016-03-03 21:15:01,647 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2016-03-03 21:15:01,649 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2016-03-03 21:15:01,654 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2016-03-03 21:15:01,655 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2016-03-03 21:15:01,657 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2016-03-03 21:15:01,659 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2016-03-03 21:15:01,664 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2016-03-03 21:15:01,697 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2016-03-03 21:15:01,701 INFO  [SchemaUtils] Added default schema from file:/C:/Users/pratik/.m2/repository/eviware/soapui/4.0.1/soapui-4.0.1.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2016-03-03 21:15:01,950 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTImageMagickProxy.wsdl]
+2016-03-03 21:15:01,951 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTImageMagickProxy.wsdl
+2016-03-03 21:15:02,467 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:02,467 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:02,499 INFO  [Soap12HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTImageMagickProxy
+2016-03-03 21:15:02,552 INFO  [Soap12HttpBindingImporter] importing operation convertByUrl
+2016-03-03 21:15:02,575 INFO  [Soap12HttpBindingImporter] importing operation convertTiffToBitonalByUrl
+2016-03-03 21:15:02,715 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:02,715 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:02,715 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTImageMagickProxy
+2016-03-03 21:15:02,715 INFO  [Soap11HttpBindingImporter] importing operation convertByUrl
+2016-03-03 21:15:02,715 INFO  [Soap11HttpBindingImporter] importing operation convertTiffToBitonalByUrl
+2016-03-03 21:15:02,853 INFO  [SoapInput] No documentation found for input targetFormat
+2016-03-03 21:15:02,965 INFO  [ContextHandler] stopped o.e.j.s.h.ContextHandler{,null}
+2016-03-03 21:15:02,965 INFO  [ReflectionServiceFactoryBean] Creating Service {http://example.generic.ws.iif.impact_project.eu/}Hello from class eu.impact_project.iif.ws.generic.example.Hello
+2016-03-03 21:15:02,980 INFO  [ServerImpl] Setting the server's publish address to be http://localhost:9001/helloWorld
+2016-03-03 21:15:03,351 INFO  [SchemaUtils] Loading schema types from [http://localhost:9001/helloWorld?wsdl]
+2016-03-03 21:15:03,351 INFO  [SchemaUtils] Getting schema http://localhost:9001/helloWorld?wsdl
+2016-03-03 21:15:03,590 INFO  [WsdlImporter] Finding importer for {http://example.generic.ws.iif.impact_project.eu/}HelloSoapBinding
+2016-03-03 21:15:03,591 INFO  [WsdlImporter] Importing binding {http://example.generic.ws.iif.impact_project.eu/}HelloSoapBinding
+2016-03-03 21:15:03,591 INFO  [Soap11HttpBindingImporter] importing endpoint http://localhost:9001/helloWorld
+2016-03-03 21:15:03,592 INFO  [Soap11HttpBindingImporter] importing operation sayHi
+2016-03-03 21:15:03,592 INFO  [Server] jetty-8.1.11.v20130520
+2016-03-03 21:15:03,592 INFO  [AbstractConnector] Started SelectChannelConnector@0.0.0.0:9002
+2016-03-03 21:15:03,655 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:15:03,655 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:15:04,276 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:04,276 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:04,276 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:04,276 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:04,276 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:04,276 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:04,276 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:04,276 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:04,292 INFO  [SoapInput] No documentation found for input text
+2016-03-03 21:15:04,292 INFO  [SoapInput] No documentation found for input text
+2016-03-03 21:15:04,359 INFO  [ContextHandler] stopped o.e.j.s.h.ContextHandler{,null}
+2016-03-03 21:15:04,359 INFO  [ReflectionServiceFactoryBean] Creating Service {http://example.generic.ws.iif.impact_project.eu/}Hello from class eu.impact_project.iif.ws.generic.example.Hello
+2016-03-03 21:15:04,359 INFO  [ServerImpl] Setting the server's publish address to be http://localhost:9001/helloWorld
+2016-03-03 21:15:04,423 INFO  [SchemaUtils] Loading schema types from [http://localhost:9001/helloWorld?wsdl]
+2016-03-03 21:15:04,423 INFO  [SchemaUtils] Getting schema http://localhost:9001/helloWorld?wsdl
+2016-03-03 21:15:05,934 INFO  [WsdlImporter] Finding importer for {http://example.generic.ws.iif.impact_project.eu/}HelloSoapBinding
+2016-03-03 21:15:05,934 INFO  [WsdlImporter] Importing binding {http://example.generic.ws.iif.impact_project.eu/}HelloSoapBinding
+2016-03-03 21:15:05,934 INFO  [Soap11HttpBindingImporter] importing endpoint http://localhost:9001/helloWorld
+2016-03-03 21:15:05,934 INFO  [Soap11HttpBindingImporter] importing operation sayHi
+2016-03-03 21:15:05,934 INFO  [Server] jetty-8.1.11.v20130520
+2016-03-03 21:15:05,934 INFO  [AbstractConnector] Started SelectChannelConnector@0.0.0.0:9002
+2016-03-03 21:15:05,980 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:15:05,980 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:15:08,276 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:08,277 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:08,277 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:08,278 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:08,279 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:08,279 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:08,280 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:08,280 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:08,286 INFO  [SoapInput] No documentation found for input text
+2016-03-03 21:15:08,286 INFO  [SoapInput] No documentation found for input bytes
+2016-03-03 21:15:08,301 INFO  [SoapInput] No documentation found for input outputFormat
+2016-03-03 21:15:08,301 INFO  [SoapInput] No documentation found for input recognitionLanguage
+2016-03-03 21:15:08,400 INFO  [ContextHandler] stopped o.e.j.s.h.ContextHandler{,null}
+2016-03-03 21:15:08,400 INFO  [ReflectionServiceFactoryBean] Creating Service {http://example.generic.ws.iif.impact_project.eu/}Hello from class eu.impact_project.iif.ws.generic.example.Hello
+2016-03-03 21:15:08,416 INFO  [ServerImpl] Setting the server's publish address to be http://localhost:9000/helloWorld
+2016-03-03 21:15:08,416 INFO  [Server] jetty-8.1.11.v20130520
+2016-03-03 21:15:08,416 INFO  [AbstractConnector] Started SelectChannelConnector@localhost:9000
+2016-03-03 21:15:08,485 INFO  [SchemaUtils] Loading schema types from [http://localhost:9000/helloWorld?wsdl]
+2016-03-03 21:15:08,485 INFO  [SchemaUtils] Getting schema http://localhost:9000/helloWorld?wsdl
+2016-03-03 21:15:11,476 INFO  [WsdlImporter] Finding importer for {http://example.generic.ws.iif.impact_project.eu/}HelloSoapBinding
+2016-03-03 21:15:11,476 INFO  [WsdlImporter] Importing binding {http://example.generic.ws.iif.impact_project.eu/}HelloSoapBinding
+2016-03-03 21:15:11,477 INFO  [Soap11HttpBindingImporter] importing endpoint http://localhost:9000/helloWorld
+2016-03-03 21:15:11,477 INFO  [Soap11HttpBindingImporter] importing operation sayHi
+2016-03-03 21:15:11,485 INFO  [SoapInput] No documentation found for input text
+2016-03-03 21:15:11,488 INFO  [SoapInput] No documentation found for input bytes
+2016-03-03 21:15:11,489 INFO  [ContextHandler] stopped o.e.j.s.h.ContextHandler{,null}
+2016-03-03 21:15:11,492 INFO  [Server] jetty-8.1.11.v20130520
+2016-03-03 21:15:11,492 INFO  [AbstractConnector] Started SelectChannelConnector@0.0.0.0:9002
+2016-03-03 21:15:11,555 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:15:11,555 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:15:15,359 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:15,360 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:15,360 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:15,360 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:15,360 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:15,360 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:15,360 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:15,360 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:15,403 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:15:15,403 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:15:19,991 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:19,991 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:19,992 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:19,992 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:19,992 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:19,992 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:19,992 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:19,992 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:20,046 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:15:20,046 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:15:25,569 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:25,569 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:25,570 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:25,570 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:25,570 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:25,570 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:25,570 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:25,570 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:25,629 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:15:25,629 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:15:32,032 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:32,032 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:32,035 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:32,036 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:32,037 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:32,037 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:32,038 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:32,040 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:32,089 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:15:32,089 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:15:39,797 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:39,797 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:39,798 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:39,798 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:39,798 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:39,799 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:39,799 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:39,799 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:39,855 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:15:39,855 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:15:48,442 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:48,442 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:48,442 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:48,442 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:48,442 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:48,442 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:48,442 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:48,442 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:48,483 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:15:48,483 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:15:57,683 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:57,683 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:15:57,683 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:57,683 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:57,683 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:57,683 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:15:57,683 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:15:57,683 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:15:57,752 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTFineReader_wrapper0.3.wsdl]
+2016-03-03 21:15:57,752 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTFineReader_wrapper0.3.wsdl
+2016-03-03 21:16:08,342 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:08,342 INFO  [WsdlImporter] Missing importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:08,342 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceSoap12Binding
+2016-03-03 21:16:08,342 INFO  [WsdlImporter] Importing binding {http://impact-project.eu/iif/tw/services}ServiceSoap12Binding
+2016-03-03 21:16:08,343 INFO  [Soap12HttpBindingImporter] importing endpoint http://kbdemo.dnsalias.org:80/impactservices-w/impact-impactfinereader-service/services/IMPACTFineReader
+2016-03-03 21:16:08,343 INFO  [Soap12HttpBindingImporter] importing operation ocrByUrl
+2016-03-03 21:16:08,344 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceSoap11Binding
+2016-03-03 21:16:08,344 INFO  [WsdlImporter] Importing binding {http://impact-project.eu/iif/tw/services}ServiceSoap11Binding
+2016-03-03 21:16:08,345 INFO  [Soap11HttpBindingImporter] importing endpoint http://kbdemo.dnsalias.org:80/impactservices-w/impact-impactfinereader-service/services/IMPACTFineReader
+2016-03-03 21:16:08,345 INFO  [Soap11HttpBindingImporter] importing operation ocrByUrl
+2016-03-03 21:16:08,346 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:08,346 INFO  [WsdlImporter] Missing importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:08,396 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTFineReader_wrapper0.3.wsdl]
+2016-03-03 21:16:08,396 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTFineReader_wrapper0.3.wsdl
+2016-03-03 21:16:20,540 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:20,540 INFO  [WsdlImporter] Missing importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:20,540 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceSoap12Binding
+2016-03-03 21:16:20,540 INFO  [WsdlImporter] Importing binding {http://impact-project.eu/iif/tw/services}ServiceSoap12Binding
+2016-03-03 21:16:20,541 INFO  [Soap12HttpBindingImporter] importing endpoint http://kbdemo.dnsalias.org:80/impactservices-w/impact-impactfinereader-service/services/IMPACTFineReader
+2016-03-03 21:16:20,541 INFO  [Soap12HttpBindingImporter] importing operation ocrByUrl
+2016-03-03 21:16:20,542 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceSoap11Binding
+2016-03-03 21:16:20,542 INFO  [WsdlImporter] Importing binding {http://impact-project.eu/iif/tw/services}ServiceSoap11Binding
+2016-03-03 21:16:20,542 INFO  [Soap11HttpBindingImporter] importing endpoint http://kbdemo.dnsalias.org:80/impactservices-w/impact-impactfinereader-service/services/IMPACTFineReader
+2016-03-03 21:16:20,542 INFO  [Soap11HttpBindingImporter] importing operation ocrByUrl
+2016-03-03 21:16:20,543 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:20,543 INFO  [WsdlImporter] Missing importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:20,579 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:16:20,579 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:16:23,963 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:16:23,964 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:16:23,964 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:16:23,964 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:16:23,964 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:16:23,964 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:16:23,964 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:16:23,964 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:16:24,003 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:16:24,003 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:16:24,450 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:16:24,450 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:16:24,450 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:16:24,450 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:16:24,450 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:16:24,450 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:16:24,450 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:16:24,450 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:16:24,488 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTFineReader_wrapper0.3.wsdl]
+2016-03-03 21:16:24,488 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTFineReader_wrapper0.3.wsdl
+2016-03-03 21:16:25,769 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:25,770 INFO  [WsdlImporter] Missing importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:25,770 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceSoap12Binding
+2016-03-03 21:16:25,770 INFO  [WsdlImporter] Importing binding {http://impact-project.eu/iif/tw/services}ServiceSoap12Binding
+2016-03-03 21:16:25,770 INFO  [Soap12HttpBindingImporter] importing endpoint http://kbdemo.dnsalias.org:80/impactservices-w/impact-impactfinereader-service/services/IMPACTFineReader
+2016-03-03 21:16:25,770 INFO  [Soap12HttpBindingImporter] importing operation ocrByUrl
+2016-03-03 21:16:25,771 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceSoap11Binding
+2016-03-03 21:16:25,771 INFO  [WsdlImporter] Importing binding {http://impact-project.eu/iif/tw/services}ServiceSoap11Binding
+2016-03-03 21:16:25,771 INFO  [Soap11HttpBindingImporter] importing endpoint http://kbdemo.dnsalias.org:80/impactservices-w/impact-impactfinereader-service/services/IMPACTFineReader
+2016-03-03 21:16:25,771 INFO  [Soap11HttpBindingImporter] importing operation ocrByUrl
+2016-03-03 21:16:25,771 INFO  [WsdlImporter] Finding importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:25,771 INFO  [WsdlImporter] Missing importer for {http://impact-project.eu/iif/tw/services}ServiceHttpBinding
+2016-03-03 21:16:25,790 INFO  [SchemaUtils] Loading schema types from [http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl]
+2016-03-03 21:16:25,790 INFO  [SchemaUtils] Getting schema http://localhost:9002/IMPACTAbbyyFre10OcrProxy.wsdl
+2016-03-03 21:16:27,967 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:16:27,967 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP12Binding
+2016-03-03 21:16:27,968 INFO  [Soap12HttpBindingImporter] importing endpoint https://loclhost/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:16:27,968 INFO  [Soap12HttpBindingImporter] importing operation ocrImageFileByUrl
+2016-03-03 21:16:27,968 INFO  [WsdlImporter] Finding importer for {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:16:27,968 INFO  [WsdlImporter] Importing binding {http://iif.impact-project.eu/}IMPACTServiceSOAP11Binding
+2016-03-03 21:16:27,968 INFO  [Soap11HttpBindingImporter] importing endpoint https://localhost/synapse/IMPACTAbbyyFre10OcrProxy
+2016-03-03 21:16:27,968 INFO  [Soap11HttpBindingImporter] importing operation ocrImageFileByUrl
